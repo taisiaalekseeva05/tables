@@ -32,6 +32,7 @@ border-radius: 50px;
     transform: translate(50px,10px);
     /* rotate: 45deg; */
     transform: rotate(45deg) translate(100px, 30px);
+    
     /* transform: rotate(45deg) translateX(100px) translateY(100px); */
     /* transform: translate(50px, 10px); */
 }
